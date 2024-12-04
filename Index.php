@@ -2,7 +2,10 @@
 $pageTitle = "Home";
 include "view-header.php";
 ?>
-    <h1 class ="centered-container">Final Project</h1>
+<div display: flex; justify-content: center; align-items: center;>
+    <h1>Final Project</h1>
+</div>
+   
 <?php
 include "view-footer.php";
 ?>
